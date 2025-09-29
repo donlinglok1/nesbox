@@ -9,7 +9,7 @@
     "dotenv": "^16.0.1",
     "download": "^8.0.0",
     "jsdom": "^19.0.0",
-    "puppeteer": "^14.4.0"
+    "puppeteer": "^24.10.2"
   },
   "devDependencies": {
     "@types/download": "^8.0.1",
